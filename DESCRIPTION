@@ -1,0 +1,13 @@
+Package: UovoEnergy
+Title: Connects to your OVO Energy Online Account and Retrieves your Consumption Data.
+Version: 0.1
+Authors@R: person(
+	   "David", "Flores",
+	   email = "foo@bar.com",
+	   role = c("aut", "cre")
+	   )
+Description: OVO is an energy provider in the UK. They have an online service where you can check your energy consumption. This package allows you to connect to their REST service and retrieve your data for analysis. It also provides some handy plots and a shiny app frontend.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
